@@ -8,3 +8,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shadyrajab/shadyrajab/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shadyrajab/shadyrajab/output/github-contribution-grid-snake.svg">
 </picture>
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5lwGHwVbbVQLJxhhV6YBOc?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
